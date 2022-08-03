@@ -1,7 +1,7 @@
 # U.S. States's Population using Jupyter and Plotly
 
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img src="https://user-images.githubusercontent.com/61090559/182713053-9747a9ee-e5fa-4bd3-922c-c859079316fa.png" alt="u.s. population chart">
 
 
 > Basic graph showing the population of U.S. States in 2021, using Jupyter Notebook and Plotly.
